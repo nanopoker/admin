@@ -1,0 +1,141 @@
+a:8:{s:6:"config";a:5:{s:10:"phpVersion";s:6:"5.6.23";s:10:"yiiVersion";s:5:"2.0.8";s:11:"application";a:4:{s:3:"yii";s:5:"2.0.8";s:4:"name";s:14:"My Application";s:3:"env";s:3:"dev";s:5:"debug";b:0;}s:3:"php";a:4:{s:7:"version";s:6:"5.6.23";s:6:"xdebug";b:0;s:3:"apc";b:0;s:8:"memcache";b:1;}s:10:"extensions";a:7:{s:24:"yiisoft/yii2-swiftmailer";a:3:{s:4:"name";s:24:"yiisoft/yii2-swiftmailer";s:7:"version";s:7:"2.0.5.0";s:5:"alias";a:1:{s:16:"@yii/swiftmailer";s:53:"/home/seviechen/admin/vendor/yiisoft/yii2-swiftmailer";}}s:24:"yiisoft/yii2-codeception";a:3:{s:4:"name";s:24:"yiisoft/yii2-codeception";s:7:"version";s:7:"2.0.5.0";s:5:"alias";a:1:{s:16:"@yii/codeception";s:53:"/home/seviechen/admin/vendor/yiisoft/yii2-codeception";}}s:22:"yiisoft/yii2-bootstrap";a:3:{s:4:"name";s:22:"yiisoft/yii2-bootstrap";s:7:"version";s:7:"2.0.6.0";s:5:"alias";a:1:{s:14:"@yii/bootstrap";s:51:"/home/seviechen/admin/vendor/yiisoft/yii2-bootstrap";}}s:18:"yiisoft/yii2-debug";a:3:{s:4:"name";s:18:"yiisoft/yii2-debug";s:7:"version";s:7:"2.0.6.0";s:5:"alias";a:1:{s:10:"@yii/debug";s:47:"/home/seviechen/admin/vendor/yiisoft/yii2-debug";}}s:16:"yiisoft/yii2-gii";a:3:{s:4:"name";s:16:"yiisoft/yii2-gii";s:7:"version";s:7:"2.0.5.0";s:5:"alias";a:1:{s:8:"@yii/gii";s:45:"/home/seviechen/admin/vendor/yiisoft/yii2-gii";}}s:18:"yiisoft/yii2-faker";a:3:{s:4:"name";s:18:"yiisoft/yii2-faker";s:7:"version";s:7:"2.0.3.0";s:5:"alias";a:1:{s:10:"@yii/faker";s:47:"/home/seviechen/admin/vendor/yiisoft/yii2-faker";}}s:20:"yiisoft/yii2-imagine";a:3:{s:4:"name";s:20:"yiisoft/yii2-imagine";s:7:"version";s:7:"2.0.3.0";s:5:"alias";a:1:{s:12:"@yii/imagine";s:49:"/home/seviechen/admin/vendor/yiisoft/yii2-imagine";}}}}s:7:"request";a:14:{s:7:"flashes";a:0:{}s:10:"statusCode";i:302;s:14:"requestHeaders";a:12:{s:4:"host";s:20:"139.159.219.231:8007";s:10:"connection";s:10:"Keep-Alive";s:14:"content-length";s:2:"91";s:6:"pragma";s:8:"no-cache";s:13:"cache-control";s:8:"no-cache";s:6:"accept";s:114:"image/gif, image/jpeg, image/pjpeg, application/x-ms-application, application/xaml+xml, application/x-ms-xbap, */*";s:15:"accept-language";s:5:"zh-CN";s:12:"content-type";s:33:"application/x-www-form-urlencoded";s:10:"user-agent";s:88:"Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0; SE 2.X MetaSr 1.0) like Gecko";s:7:"referer";s:63:"http://139.159.219.231:8007/index.php?r=user-verify%2Fview&id=2";s:15:"accept-encoding";s:13:"gzip, deflate";s:6:"cookie";s:382:"_csrf=c75a8b9e59d06a50c7c6ca162e77d2bbef9e672df590d439f5408f91691e6415a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22tBwNyJGQMk0BiLAHgz0pcLlnmpFE1YPB%22%3B%7D; PHPSESSID=mdckiq8o7u5b46q9uvdf7199a1; _identity=4acc807fcaa91b8137906f07500abaae4d705eb4160e32fa47dea663142594dba%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A10%3A%22%5B2%2C%22%22%2C300%5D%22%3B%7D";}s:15:"responseHeaders";a:2:{s:8:"Location";s:63:"http://139.159.219.231:8007/index.php?r=user-verify%2Fview&id=2";s:12:"Content-Type";s:24:"text/html; charset=UTF-8";}s:5:"route";s:18:"user-verify/verify";s:6:"action";s:56:"backend\controllers\UserVerifyController::actionVerify()";s:12:"actionParams";a:0:{}s:11:"requestBody";a:3:{s:12:"Content Type";s:33:"application/x-www-form-urlencoded";s:3:"Raw";s:91:"reason=no&_csrf=V184aGY1YnUjHU8mH38lJBo0CCoPeSM9MCUIGAV5Dhs6L34tV2wyNw%3D%3D&uid=2&button=2";s:17:"Decoded to Params";a:4:{s:6:"reason";s:2:"no";s:5:"_csrf";s:56:"V184aGY1YnUjHU8mH38lJBo0CCoPeSM9MCUIGAV5Dhs6L34tV2wyNw==";s:3:"uid";s:1:"2";s:6:"button";s:1:"2";}}s:6:"SERVER";a:38:{s:4:"USER";s:6:"nobody";s:4:"HOME";s:1:"/";s:9:"FCGI_ROLE";s:9:"RESPONDER";s:9:"PATH_INFO";s:0:"";s:15:"SCRIPT_FILENAME";s:43:"/home/seviechen/admin/backend/web/index.php";s:12:"QUERY_STRING";s:22:"r=user-verify%2Fverify";s:14:"REQUEST_METHOD";s:4:"POST";s:12:"CONTENT_TYPE";s:33:"application/x-www-form-urlencoded";s:14:"CONTENT_LENGTH";s:2:"91";s:11:"SCRIPT_NAME";s:10:"/index.php";s:11:"REQUEST_URI";s:33:"/index.php?r=user-verify%2Fverify";s:12:"DOCUMENT_URI";s:10:"/index.php";s:13:"DOCUMENT_ROOT";s:33:"/home/seviechen/admin/backend/web";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.1";s:14:"REQUEST_SCHEME";s:4:"http";s:17:"GATEWAY_INTERFACE";s:7:"CGI/1.1";s:15:"SERVER_SOFTWARE";s:12:"nginx/1.10.1";s:11:"REMOTE_ADDR";s:14:"218.17.197.172";s:11:"REMOTE_PORT";s:5:"19372";s:11:"SERVER_ADDR";s:11:"192.168.0.4";s:11:"SERVER_PORT";s:4:"8007";s:11:"SERVER_NAME";s:5:"admin";s:15:"REDIRECT_STATUS";s:3:"200";s:9:"HTTP_HOST";s:20:"139.159.219.231:8007";s:15:"HTTP_CONNECTION";s:10:"Keep-Alive";s:19:"HTTP_CONTENT_LENGTH";s:2:"91";s:11:"HTTP_PRAGMA";s:8:"no-cache";s:18:"HTTP_CACHE_CONTROL";s:8:"no-cache";s:11:"HTTP_ACCEPT";s:114:"image/gif, image/jpeg, image/pjpeg, application/x-ms-application, application/xaml+xml, application/x-ms-xbap, */*";s:20:"HTTP_ACCEPT_LANGUAGE";s:5:"zh-CN";s:17:"HTTP_CONTENT_TYPE";s:33:"application/x-www-form-urlencoded";s:15:"HTTP_USER_AGENT";s:88:"Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0; SE 2.X MetaSr 1.0) like Gecko";s:12:"HTTP_REFERER";s:63:"http://139.159.219.231:8007/index.php?r=user-verify%2Fview&id=2";s:20:"HTTP_ACCEPT_ENCODING";s:13:"gzip, deflate";s:11:"HTTP_COOKIE";s:382:"_csrf=c75a8b9e59d06a50c7c6ca162e77d2bbef9e672df590d439f5408f91691e6415a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22tBwNyJGQMk0BiLAHgz0pcLlnmpFE1YPB%22%3B%7D; PHPSESSID=mdckiq8o7u5b46q9uvdf7199a1; _identity=4acc807fcaa91b8137906f07500abaae4d705eb4160e32fa47dea663142594dba%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A10%3A%22%5B2%2C%22%22%2C300%5D%22%3B%7D";s:8:"PHP_SELF";s:10:"/index.php";s:18:"REQUEST_TIME_FLOAT";d:1512113794.6609099;s:12:"REQUEST_TIME";i:1512113794;}s:3:"GET";a:1:{s:1:"r";s:18:"user-verify/verify";}s:4:"POST";a:4:{s:6:"reason";s:2:"no";s:5:"_csrf";s:56:"V184aGY1YnUjHU8mH38lJBo0CCoPeSM9MCUIGAV5Dhs6L34tV2wyNw==";s:3:"uid";s:1:"2";s:6:"button";s:1:"2";}s:6:"COOKIE";a:3:{s:5:"_csrf";s:130:"c75a8b9e59d06a50c7c6ca162e77d2bbef9e672df590d439f5408f91691e6415a:2:{i:0;s:5:"_csrf";i:1;s:32:"tBwNyJGQMk0BiLAHgz0pcLlnmpFE1YPB";}";s:9:"PHPSESSID";s:26:"mdckiq8o7u5b46q9uvdf7199a1";s:9:"_identity";s:112:"4acc807fcaa91b8137906f07500abaae4d705eb4160e32fa47dea663142594dba:2:{i:0;s:9:"_identity";i:1;s:10:"[2,"",300]";}";}s:5:"FILES";a:0:{}s:7:"SESSION";a:0:{}}s:3:"log";a:1:{s:8:"messages";a:9:{i:0;a:5:{i:0;s:60:"Opening DB connection: mysql:host=localhost:3311;dbname=test";i:1;i:4;i:2;s:23:"yii\db\Connection::open";i:3;d:1512113794.6923771;i:4;a:0:{}}i:3;a:5:{i:0;s:43:"SELECT * FROM `user_verify` WHERE `uid`='2'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1512113794.693162;i:4;a:0:{}}i:6;a:5:{i:0;s:36:"SHOW FULL COLUMNS FROM `user_verify`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1512113794.6943121;i:4;a:0:{}}i:9;a:5:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user_verify' AND kcu.table_name = 'user_verify'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1512113794.695473;i:4;a:0:{}}i:12;a:5:{i:0;s:73:"UPDATE `user_verify` SET `status`=2, `updated_at`=1512113794 WHERE `id`=1";i:1;i:4;i:2;s:23:"yii\db\Command::execute";i:3;d:1512113794.698338;i:4;a:0:{}}i:15;a:5:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1512113794.7009001;i:4;a:0:{}}i:18;a:5:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1512113794.702373;i:4;a:0:{}}i:21;a:5:{i:0;s:35:"SELECT * FROM `user` WHERE `id`='2'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1512113794.7028201;i:4;a:0:{}}i:24;a:5:{i:0;s:64:"UPDATE `user` SET `type`=0, `updated_at`=1512113794 WHERE `id`=2";i:1;i:4;i:2;s:23:"yii\db\Command::execute";i:3;d:1512113794.7038839;i:4;a:0:{}}}}s:9:"profiling";a:3:{s:6:"memory";i:6265432;s:4:"time";d:0.04630589485168457;s:8:"messages";a:18:{i:1;a:5:{i:0;s:60:"Opening DB connection: mysql:host=localhost:3311;dbname=test";i:1;i:80;i:2;s:23:"yii\db\Connection::open";i:3;d:1512113794.692389;i:4;a:0:{}}i:2;a:5:{i:0;s:60:"Opening DB connection: mysql:host=localhost:3311;dbname=test";i:1;i:96;i:2;s:23:"yii\db\Connection::open";i:3;d:1512113794.6931269;i:4;a:0:{}}i:4;a:5:{i:0;s:43:"SELECT * FROM `user_verify` WHERE `uid`='2'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1512113794.6931961;i:4;a:0:{}}i:5;a:5:{i:0;s:43:"SELECT * FROM `user_verify` WHERE `uid`='2'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1512113794.693598;i:4;a:0:{}}i:7;a:5:{i:0;s:36:"SHOW FULL COLUMNS FROM `user_verify`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1512113794.6943271;i:4;a:0:{}}i:8;a:5:{i:0;s:36:"SHOW FULL COLUMNS FROM `user_verify`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1512113794.6949551;i:4;a:0:{}}i:10;a:5:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user_verify' AND kcu.table_name = 'user_verify'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1512113794.6954889;i:4;a:0:{}}i:11;a:5:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user_verify' AND kcu.table_name = 'user_verify'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1512113794.6957791;i:4;a:0:{}}i:13;a:5:{i:0;s:73:"UPDATE `user_verify` SET `status`=2, `updated_at`=1512113794 WHERE `id`=1";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1512113794.6983531;i:4;a:0:{}}i:14;a:5:{i:0;s:73:"UPDATE `user_verify` SET `status`=2, `updated_at`=1512113794 WHERE `id`=1";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1512113794.700388;i:4;a:0:{}}i:16;a:5:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1512113794.7009139;i:4;a:0:{}}i:17;a:5:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1512113794.701827;i:4;a:0:{}}i:19;a:5:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1512113794.702388;i:4;a:0:{}}i:20;a:5:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1512113794.7026751;i:4;a:0:{}}i:22;a:5:{i:0;s:35:"SELECT * FROM `user` WHERE `id`='2'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1512113794.7028329;i:4;a:0:{}}i:23;a:5:{i:0;s:35:"SELECT * FROM `user` WHERE `id`='2'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1512113794.7030721;i:4;a:0:{}}i:25;a:5:{i:0;s:64:"UPDATE `user` SET `type`=0, `updated_at`=1512113794 WHERE `id`=2";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1512113794.7039011;i:4;a:0:{}}i:26;a:5:{i:0;s:64:"UPDATE `user` SET `type`=0, `updated_at`=1512113794 WHERE `id`=2";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1512113794.7056301;i:4;a:0:{}}}}s:2:"db";a:1:{s:8:"messages";a:16:{i:4;a:5:{i:0;s:43:"SELECT * FROM `user_verify` WHERE `uid`='2'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1512113794.6931961;i:4;a:0:{}}i:5;a:5:{i:0;s:43:"SELECT * FROM `user_verify` WHERE `uid`='2'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1512113794.693598;i:4;a:0:{}}i:7;a:5:{i:0;s:36:"SHOW FULL COLUMNS FROM `user_verify`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1512113794.6943271;i:4;a:0:{}}i:8;a:5:{i:0;s:36:"SHOW FULL COLUMNS FROM `user_verify`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1512113794.6949551;i:4;a:0:{}}i:10;a:5:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user_verify' AND kcu.table_name = 'user_verify'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1512113794.6954889;i:4;a:0:{}}i:11;a:5:{i:0;s:609:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user_verify' AND kcu.table_name = 'user_verify'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1512113794.6957791;i:4;a:0:{}}i:13;a:5:{i:0;s:73:"UPDATE `user_verify` SET `status`=2, `updated_at`=1512113794 WHERE `id`=1";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1512113794.6983531;i:4;a:0:{}}i:14;a:5:{i:0;s:73:"UPDATE `user_verify` SET `status`=2, `updated_at`=1512113794 WHERE `id`=1";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1512113794.700388;i:4;a:0:{}}i:16;a:5:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1512113794.7009139;i:4;a:0:{}}i:17;a:5:{i:0;s:29:"SHOW FULL COLUMNS FROM `user`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1512113794.701827;i:4;a:0:{}}i:19;a:5:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1512113794.702388;i:4;a:0:{}}i:20;a:5:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'user' AND kcu.table_name = 'user'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1512113794.7026751;i:4;a:0:{}}i:22;a:5:{i:0;s:35:"SELECT * FROM `user` WHERE `id`='2'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1512113794.7028329;i:4;a:0:{}}i:23;a:5:{i:0;s:35:"SELECT * FROM `user` WHERE `id`='2'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1512113794.7030721;i:4;a:0:{}}i:25;a:5:{i:0;s:64:"UPDATE `user` SET `type`=0, `updated_at`=1512113794 WHERE `id`=2";i:1;i:80;i:2;s:23:"yii\db\Command::execute";i:3;d:1512113794.7039011;i:4;a:0:{}}i:26;a:5:{i:0;s:64:"UPDATE `user` SET `type`=0, `updated_at`=1512113794 WHERE `id`=2";i:1;i:96;i:2;s:23:"yii\db\Command::execute";i:3;d:1512113794.7056301;i:4;a:0:{}}}}s:6:"assets";a:0:{}s:4:"mail";a:0:{}s:7:"summary";a:9:{s:3:"tag";s:13:"5a210682a5050";s:3:"url";s:60:"http://139.159.219.231:8007/index.php?r=user-verify%2Fverify";s:4:"ajax";i:0;s:6:"method";s:4:"POST";s:2:"ip";s:14:"218.17.197.172";s:4:"time";i:1512113794;s:10:"statusCode";i:302;s:8:"sqlCount";i:8;s:9:"mailCount";i:0;}}

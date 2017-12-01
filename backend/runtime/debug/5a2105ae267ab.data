@@ -1,0 +1,141 @@
+a:8:{s:6:"config";a:5:{s:10:"phpVersion";s:6:"5.6.23";s:10:"yiiVersion";s:5:"2.0.8";s:11:"application";a:4:{s:3:"yii";s:5:"2.0.8";s:4:"name";s:14:"My Application";s:3:"env";s:3:"dev";s:5:"debug";b:0;}s:3:"php";a:4:{s:7:"version";s:6:"5.6.23";s:6:"xdebug";b:0;s:3:"apc";b:0;s:8:"memcache";b:1;}s:10:"extensions";a:7:{s:24:"yiisoft/yii2-swiftmailer";a:3:{s:4:"name";s:24:"yiisoft/yii2-swiftmailer";s:7:"version";s:7:"2.0.5.0";s:5:"alias";a:1:{s:16:"@yii/swiftmailer";s:53:"/home/seviechen/admin/vendor/yiisoft/yii2-swiftmailer";}}s:24:"yiisoft/yii2-codeception";a:3:{s:4:"name";s:24:"yiisoft/yii2-codeception";s:7:"version";s:7:"2.0.5.0";s:5:"alias";a:1:{s:16:"@yii/codeception";s:53:"/home/seviechen/admin/vendor/yiisoft/yii2-codeception";}}s:22:"yiisoft/yii2-bootstrap";a:3:{s:4:"name";s:22:"yiisoft/yii2-bootstrap";s:7:"version";s:7:"2.0.6.0";s:5:"alias";a:1:{s:14:"@yii/bootstrap";s:51:"/home/seviechen/admin/vendor/yiisoft/yii2-bootstrap";}}s:18:"yiisoft/yii2-debug";a:3:{s:4:"name";s:18:"yiisoft/yii2-debug";s:7:"version";s:7:"2.0.6.0";s:5:"alias";a:1:{s:10:"@yii/debug";s:47:"/home/seviechen/admin/vendor/yiisoft/yii2-debug";}}s:16:"yiisoft/yii2-gii";a:3:{s:4:"name";s:16:"yiisoft/yii2-gii";s:7:"version";s:7:"2.0.5.0";s:5:"alias";a:1:{s:8:"@yii/gii";s:45:"/home/seviechen/admin/vendor/yiisoft/yii2-gii";}}s:18:"yiisoft/yii2-faker";a:3:{s:4:"name";s:18:"yiisoft/yii2-faker";s:7:"version";s:7:"2.0.3.0";s:5:"alias";a:1:{s:10:"@yii/faker";s:47:"/home/seviechen/admin/vendor/yiisoft/yii2-faker";}}s:20:"yiisoft/yii2-imagine";a:3:{s:4:"name";s:20:"yiisoft/yii2-imagine";s:7:"version";s:7:"2.0.3.0";s:5:"alias";a:1:{s:12:"@yii/imagine";s:49:"/home/seviechen/admin/vendor/yiisoft/yii2-imagine";}}}}s:7:"request";a:14:{s:7:"flashes";a:0:{}s:10:"statusCode";i:200;s:14:"requestHeaders";a:7:{s:10:"user-agent";s:72:"Mozilla/5.0 (Windows NT 6.1; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0";s:6:"accept";s:3:"*/*";s:15:"accept-encoding";s:23:"gzip, deflate, sdch, br";s:7:"referer";s:59:"http://139.159.219.231:8007/index.php?r=user-verify%2Findex";s:15:"accept-language";s:35:"zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4";s:4:"host";s:20:"139.159.219.231:8007";s:10:"connection";s:10:"keep-alive";}s:15:"responseHeaders";a:5:{s:10:"Set-Cookie";a:2:{i:0;s:54:"PHPSESSID=ch9vdv4opo15a4sbsuk18eqbm7; path=/; HttpOnly";i:1;s:190:"_csrf=fdae22cc7014993df90b52b5562848cc56a4cf73a5527c45173eb0b9c13ae9eea%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22QtGgTYh8w7q-pTkOjQWLS46-Mj6QvQkQ%22%3B%7D; path=/; httponly";}s:7:"Expires";s:29:"Thu, 19 Nov 1981 08:52:00 GMT";s:13:"Cache-Control";s:62:"no-store, no-cache, must-revalidate, post-check=0, pre-check=0";s:6:"Pragma";s:8:"no-cache";s:12:"Content-Type";s:24:"text/html; charset=UTF-8";}s:5:"route";s:10:"news/index";s:6:"action";s:49:"backend\controllers\NewsController::actionIndex()";s:12:"actionParams";a:0:{}s:11:"requestBody";a:0:{}s:6:"SERVER";a:33:{s:4:"USER";s:6:"nobody";s:4:"HOME";s:1:"/";s:9:"FCGI_ROLE";s:9:"RESPONDER";s:9:"PATH_INFO";s:0:"";s:15:"SCRIPT_FILENAME";s:43:"/home/seviechen/admin/backend/web/index.php";s:12:"QUERY_STRING";s:12:"r=news/index";s:14:"REQUEST_METHOD";s:3:"GET";s:12:"CONTENT_TYPE";s:0:"";s:14:"CONTENT_LENGTH";s:0:"";s:11:"SCRIPT_NAME";s:10:"/index.php";s:11:"REQUEST_URI";s:23:"/index.php?r=news/index";s:12:"DOCUMENT_URI";s:10:"/index.php";s:13:"DOCUMENT_ROOT";s:33:"/home/seviechen/admin/backend/web";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.1";s:14:"REQUEST_SCHEME";s:4:"http";s:17:"GATEWAY_INTERFACE";s:7:"CGI/1.1";s:15:"SERVER_SOFTWARE";s:12:"nginx/1.10.1";s:11:"REMOTE_ADDR";s:14:"101.226.33.205";s:11:"REMOTE_PORT";s:5:"33650";s:11:"SERVER_ADDR";s:11:"192.168.0.4";s:11:"SERVER_PORT";s:4:"8007";s:11:"SERVER_NAME";s:5:"admin";s:15:"REDIRECT_STATUS";s:3:"200";s:15:"HTTP_USER_AGENT";s:72:"Mozilla/5.0 (Windows NT 6.1; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0";s:11:"HTTP_ACCEPT";s:3:"*/*";s:20:"HTTP_ACCEPT_ENCODING";s:23:"gzip, deflate, sdch, br";s:12:"HTTP_REFERER";s:59:"http://139.159.219.231:8007/index.php?r=user-verify%2Findex";s:20:"HTTP_ACCEPT_LANGUAGE";s:35:"zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4";s:9:"HTTP_HOST";s:20:"139.159.219.231:8007";s:15:"HTTP_CONNECTION";s:10:"keep-alive";s:8:"PHP_SELF";s:10:"/index.php";s:18:"REQUEST_TIME_FLOAT";d:1512113582.144217;s:12:"REQUEST_TIME";i:1512113582;}s:3:"GET";a:1:{s:1:"r";s:10:"news/index";}s:4:"POST";a:0:{}s:6:"COOKIE";a:0:{}s:5:"FILES";a:0:{}s:7:"SESSION";a:1:{s:7:"__flash";a:0:{}}}s:3:"log";a:1:{s:8:"messages";a:10:{i:0;a:5:{i:0;s:27:"SELECT COUNT(*) FROM `news`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1512113582.1820309;i:4;a:0:{}}i:1;a:5:{i:0;s:60:"Opening DB connection: mysql:host=localhost:3311;dbname=test";i:1;i:4;i:2;s:23:"yii\db\Connection::open";i:3;d:1512113582.1820531;i:4;a:0:{}}i:6;a:5:{i:0;s:29:"SHOW FULL COLUMNS FROM `news`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1512113582.183794;i:4;a:0:{}}i:9;a:5:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'news' AND kcu.table_name = 'news'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1512113582.1849899;i:4;a:0:{}}i:12;a:5:{i:0;s:56:"SELECT * FROM `news` ORDER BY `created_at` DESC LIMIT 10";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1512113582.1855099;i:4;a:0:{}}i:15;a:5:{i:0;s:50:"SELECT * FROM `admin_user` WHERE `id` IN (3, 4, 2)";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1512113582.18677;i:4;a:0:{}}i:18;a:5:{i:0;s:35:"SHOW FULL COLUMNS FROM `admin_user`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1512113582.1871221;i:4;a:0:{}}i:21;a:5:{i:0;s:607:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'admin_user' AND kcu.table_name = 'admin_user'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1512113582.1879301;i:4;a:0:{}}i:24;a:5:{i:0;s:15:"Session started";i:1;i:4;i:2;s:21:"yii\web\Session::open";i:3;d:1512113582.1996231;i:4;a:0:{}}i:25;a:5:{i:0;s:103:"Access to debugger is denied due to IP address restriction. The requesting IP address is 101.226.33.205";i:1;i:2;i:2;s:29:"yii\debug\Module::checkAccess";i:3;d:1512113582.200197;i:4;a:0:{}}}}s:9:"profiling";a:3:{s:6:"memory";i:8203384;s:4:"time";d:0.055678129196166992;s:8:"messages";a:16:{i:2;a:5:{i:0;s:60:"Opening DB connection: mysql:host=localhost:3311;dbname=test";i:1;i:80;i:2;s:23:"yii\db\Connection::open";i:3;d:1512113582.182059;i:4;a:0:{}}i:3;a:5:{i:0;s:60:"Opening DB connection: mysql:host=localhost:3311;dbname=test";i:1;i:96;i:2;s:23:"yii\db\Connection::open";i:3;d:1512113582.1825819;i:4;a:0:{}}i:4;a:5:{i:0;s:27:"SELECT COUNT(*) FROM `news`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1512113582.1825941;i:4;a:0:{}}i:5;a:5:{i:0;s:27:"SELECT COUNT(*) FROM `news`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1512113582.182797;i:4;a:0:{}}i:7;a:5:{i:0;s:29:"SHOW FULL COLUMNS FROM `news`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1512113582.183814;i:4;a:0:{}}i:8;a:5:{i:0;s:29:"SHOW FULL COLUMNS FROM `news`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1512113582.1845391;i:4;a:0:{}}i:10;a:5:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'news' AND kcu.table_name = 'news'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1512113582.1850071;i:4;a:0:{}}i:11;a:5:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'news' AND kcu.table_name = 'news'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1512113582.185358;i:4;a:0:{}}i:13;a:5:{i:0;s:56:"SELECT * FROM `news` ORDER BY `created_at` DESC LIMIT 10";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1512113582.1855221;i:4;a:0:{}}i:14;a:5:{i:0;s:56:"SELECT * FROM `news` ORDER BY `created_at` DESC LIMIT 10";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1512113582.185782;i:4;a:0:{}}i:16;a:5:{i:0;s:50:"SELECT * FROM `admin_user` WHERE `id` IN (3, 4, 2)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1512113582.1867881;i:4;a:0:{}}i:17;a:5:{i:0;s:50:"SELECT * FROM `admin_user` WHERE `id` IN (3, 4, 2)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1512113582.187036;i:4;a:0:{}}i:19;a:5:{i:0;s:35:"SHOW FULL COLUMNS FROM `admin_user`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1512113582.187134;i:4;a:0:{}}i:20;a:5:{i:0;s:35:"SHOW FULL COLUMNS FROM `admin_user`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1512113582.187639;i:4;a:0:{}}i:22;a:5:{i:0;s:607:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'admin_user' AND kcu.table_name = 'admin_user'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1512113582.1879449;i:4;a:0:{}}i:23;a:5:{i:0;s:607:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'admin_user' AND kcu.table_name = 'admin_user'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1512113582.1882319;i:4;a:0:{}}}}s:2:"db";a:1:{s:8:"messages";a:14:{i:4;a:5:{i:0;s:27:"SELECT COUNT(*) FROM `news`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1512113582.1825941;i:4;a:0:{}}i:5;a:5:{i:0;s:27:"SELECT COUNT(*) FROM `news`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1512113582.182797;i:4;a:0:{}}i:7;a:5:{i:0;s:29:"SHOW FULL COLUMNS FROM `news`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1512113582.183814;i:4;a:0:{}}i:8;a:5:{i:0;s:29:"SHOW FULL COLUMNS FROM `news`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1512113582.1845391;i:4;a:0:{}}i:10;a:5:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'news' AND kcu.table_name = 'news'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1512113582.1850071;i:4;a:0:{}}i:11;a:5:{i:0;s:595:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'news' AND kcu.table_name = 'news'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1512113582.185358;i:4;a:0:{}}i:13;a:5:{i:0;s:56:"SELECT * FROM `news` ORDER BY `created_at` DESC LIMIT 10";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1512113582.1855221;i:4;a:0:{}}i:14;a:5:{i:0;s:56:"SELECT * FROM `news` ORDER BY `created_at` DESC LIMIT 10";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1512113582.185782;i:4;a:0:{}}i:16;a:5:{i:0;s:50:"SELECT * FROM `admin_user` WHERE `id` IN (3, 4, 2)";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1512113582.1867881;i:4;a:0:{}}i:17;a:5:{i:0;s:50:"SELECT * FROM `admin_user` WHERE `id` IN (3, 4, 2)";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1512113582.187036;i:4;a:0:{}}i:19;a:5:{i:0;s:35:"SHOW FULL COLUMNS FROM `admin_user`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1512113582.187134;i:4;a:0:{}}i:20;a:5:{i:0;s:35:"SHOW FULL COLUMNS FROM `admin_user`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1512113582.187639;i:4;a:0:{}}i:22;a:5:{i:0;s:607:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'admin_user' AND kcu.table_name = 'admin_user'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1512113582.1879449;i:4;a:0:{}}i:23;a:5:{i:0;s:607:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'admin_user' AND kcu.table_name = 'admin_user'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1512113582.1882319;i:4;a:0:{}}}}s:6:"assets";a:3:{s:22:"yii\grid\GridViewAsset";a:9:{s:10:"sourcePath";s:48:"/home/seviechen/admin/vendor/yiisoft/yii2/assets";s:2:"js";a:1:{i:0;s:15:"yii.gridView.js";}s:7:"depends";a:1:{i:0;s:16:"yii\web\YiiAsset";}s:8:"basePath";s:49:"/home/seviechen/admin/backend/web/assets/eaf1387e";s:7:"baseUrl";s:16:"/assets/eaf1387e";s:3:"css";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:16:"yii\web\YiiAsset";a:9:{s:10:"sourcePath";s:48:"/home/seviechen/admin/vendor/yiisoft/yii2/assets";s:2:"js";a:1:{i:0;s:6:"yii.js";}s:7:"depends";a:1:{i:0;s:19:"yii\web\JqueryAsset";}s:8:"basePath";s:49:"/home/seviechen/admin/backend/web/assets/eaf1387e";s:7:"baseUrl";s:16:"/assets/eaf1387e";s:3:"css";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}s:19:"yii\web\JqueryAsset";a:9:{s:10:"sourcePath";s:46:"/home/seviechen/admin/vendor/bower/jquery/dist";s:2:"js";a:1:{i:0;s:9:"jquery.js";}s:8:"basePath";s:49:"/home/seviechen/admin/backend/web/assets/4e2740de";s:7:"baseUrl";s:16:"/assets/4e2740de";s:7:"depends";a:0:{}s:3:"css";a:0:{}s:9:"jsOptions";a:0:{}s:10:"cssOptions";a:0:{}s:14:"publishOptions";a:0:{}}}s:4:"mail";a:0:{}s:7:"summary";a:9:{s:3:"tag";s:13:"5a2105ae267ab";s:3:"url";s:50:"http://139.159.219.231:8007/index.php?r=news/index";s:4:"ajax";i:0;s:6:"method";s:3:"GET";s:2:"ip";s:14:"101.226.33.205";s:4:"time";i:1512113582;s:10:"statusCode";i:200;s:8:"sqlCount";i:7;s:9:"mailCount";i:0;}}

@@ -1,0 +1,12 @@
+2017-12-01 15:39:19 [101.226.65.104][-][lj52e3p9p0d5jjas8v3eus23l6][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message 'The requested page does not exist.' in /home/seviechen/admin/backend/controllers/NewsController.php:238
+Stack trace:
+#0 /home/seviechen/admin/backend/controllers/NewsController.php(213): backend\controllers\NewsController->findModel('73276')
+#1 [internal function]: backend\controllers\NewsController->actionDelete('73276')
+#2 /home/seviechen/admin/vendor/yiisoft/yii2/base/InlineAction.php(55): call_user_func_array(Array, Array)
+#3 /home/seviechen/admin/vendor/yiisoft/yii2/base/Controller.php(154): yii\base\InlineAction->runWithParams(Array)
+#4 /home/seviechen/admin/vendor/yiisoft/yii2/base/Module.php(454): yii\base\Controller->runAction('delete', Array)
+#5 /home/seviechen/admin/vendor/yiisoft/yii2/web/Application.php(84): yii\base\Module->runAction('news/delete', Array)
+#6 /home/seviechen/admin/vendor/yiisoft/yii2/base/Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#7 /home/seviechen/admin/backend/web/index.php(18): yii\base\Application->run()
+#8 {main}
+2017-12-01 15:39:19 [101.226.65.104][-][lj52e3p9p0d5jjas8v3eus23l6][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 101.226.65.104
